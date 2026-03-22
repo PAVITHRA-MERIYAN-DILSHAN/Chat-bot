@@ -1,4 +1,4 @@
-# AI Practical 3
+# AI Practical 
 
 This is a simple web project for AI Practical.
 
